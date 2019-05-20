@@ -1,0 +1,22 @@
+C:\Users\Gayatri\Documents\Visual Studio 2013\Projects\MecSampleProject\MecSampleProject.Business\obj\Debug\MecSampleProject.Business.csprojResolveAssemblyReference.cache
+C:\Users\Gayatri\Documents\Visual Studio 2013\Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\MecSampleProject.Business.dll
+C:\Users\Gayatri\Documents\Visual Studio 2013\Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\MecSampleProject.Business.pdb
+C:\Users\Gayatri\Documents\Visual Studio 2013\Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\MecSampleProject.Data.dll
+C:\Users\Gayatri\Documents\Visual Studio 2013\Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\MecSampleProject.Models.dll
+C:\Users\Gayatri\Documents\Visual Studio 2013\Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gayatri\Documents\Visual Studio 2013\Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\MecSampleProject.Data.pdb
+C:\Users\Gayatri\Documents\Visual Studio 2013\Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\MecSampleProject.Models.pdb
+C:\Users\Gayatri\Documents\Visual Studio 2013\Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gayatri\Documents\Visual Studio 2013\Projects\MecSampleProject\MecSampleProject.Business\obj\Debug\MecSampleProject.Business.dll
+C:\Users\Gayatri\Documents\Visual Studio 2013\Projects\MecSampleProject\MecSampleProject.Business\obj\Debug\MecSampleProject.Business.pdb
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\MecSampleProject.Business.dll
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\MecSampleProject.Business.pdb
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\MecSampleProject.Data.dll
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\MecSampleProject.Models.dll
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\MecSampleProject.Data.pdb
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\MecSampleProject.Models.pdb
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.Business\obj\Debug\MecSampleProject.Business.csprojResolveAssemblyReference.cache
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.Business\obj\Debug\MecSampleProject.Business.dll
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.Business\obj\Debug\MecSampleProject.Business.pdb

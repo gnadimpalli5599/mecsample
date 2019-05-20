@@ -1,0 +1,12 @@
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.UnitTests\bin\Debug\MecSampleProject.UnitTests.dll
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.UnitTests\bin\Debug\MecSampleProject.UnitTests.pdb
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.UnitTests\bin\Debug\MecSampleProject.Business.dll
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.UnitTests\bin\Debug\MecSampleProject.Data.dll
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.UnitTests\bin\Debug\MecSampleProject.Models.dll
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.UnitTests\bin\Debug\MecSampleProject.Business.pdb
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.UnitTests\bin\Debug\MecSampleProject.Data.pdb
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.UnitTests\bin\Debug\MecSampleProject.Models.pdb
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.UnitTests\obj\Debug\MecSampleProject.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.UnitTests\obj\Debug\MecSampleProject.UnitTests.dll
+C:\Users\Gayatri\Desktop\VS Projects\MecSampleProject\MecSampleProject.UnitTests\obj\Debug\MecSampleProject.UnitTests.pdb
